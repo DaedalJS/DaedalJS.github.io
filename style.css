@@ -146,12 +146,12 @@ button:hover{
 
 
 .footer { 
-  position: relative;
+  position: static;
   left: 0;
   bottom: 0;  
   /* padding-bottom: 10px; */
   width: 100%;
-  height: 3%;
+  height: 25px;
   background-color:#002722de; 
   text-align: center;
   z-index: 1;
