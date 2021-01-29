@@ -105,7 +105,7 @@ button:hover{
 }
 
 .list-v li{
-  margin 25px;
+  margin: 25px;
   text-align: left;
   list-style-type: square;
 }
