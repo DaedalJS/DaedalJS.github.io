@@ -11,7 +11,7 @@ header {
   background-color:#080b20cb;
   color: rgb(120, 187, 165);
   text-align: center;
-  height: 100;
+  padding-bottom: 5px;
 }
 
 nav{
@@ -21,8 +21,9 @@ nav{
   background-color:#080b20cb;
 }
 
-h3{
+h2{
   padding-left: 20px;
+  font-size: 25px;
 }
 
 a:any-link {color: rgb(97, 147, 255);}
@@ -40,6 +41,8 @@ button {
   cursor: pointer;
   border-radius: 5px;
   box-shadow: 0 4px 0 0 rgb(34, 50, 59);
+  margin-top: 5px;
+  margin-bottom: 2px;
 }
 button:hover{
   background-color: rgb(25, 48, 70);
@@ -49,7 +52,8 @@ button:hover{
 .cwbtn {
   padding-top: 7px;
   padding-bottom: 7px;
-  margin-bottom: 2px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 @font-face {
@@ -131,6 +135,7 @@ button:hover{
   /* heavy vertical dots */
     content: '\00a0\250b\00a0\00a0';
 }
+
   
 .projT{
   width: 100%;
@@ -150,12 +155,13 @@ button:hover{
 
 
 .footer { 
-  /* position: relative;
+  position: relative;
   left: 0;
   bottom: 0;  
-  padding-bottom: 10px; */
+  padding-bottom: 10px;
+  padding-top: 5px;
   width: 100%;
-  height: 25px;
+  /* height: 75px; */
   background-color:#002722de; 
   text-align: center;
   z-index: 1;
