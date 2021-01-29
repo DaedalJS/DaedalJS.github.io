@@ -122,7 +122,7 @@ button:hover{
   /* quad diamond pattern */
   /* content: '\00a0\2756\00a0\00a0'; */
 
-  /* small squares */
+  /* small squares ... looks bad on my iphone. turns into a black gradiated square rather than keeping the font color*/
   /* content: '\00a0\25AA\00a0\00a0'; */
 
   /* round dots */
