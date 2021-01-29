@@ -123,10 +123,11 @@ button:hover{
   /* content: '\00a0\2756\00a0\00a0'; */
 
   /* small squares */
-  /* content: '\00a0\25AA\00a0\00a0'; */
+  content: '\00a0\25AA\00a0\00a0';
 
   /* round dots */
-  content: '\00a0\2022\00a0\00a0';
+  /* content: '\00a0\2022\00a0\00a0'; */
+    /* content: ' \25a0  '; */
 }
   
 .projT{
