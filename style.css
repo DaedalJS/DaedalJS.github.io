@@ -46,7 +46,11 @@ button:hover{
   color: chartreuse;
   box-shadow: 0 3px 3px 2px rgba(0, 255, 255, 0.658);
 }
-
+.cwbtn {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-bottom: 2px;
+}
 
 @font-face {
   font-family: blender;
@@ -105,7 +109,6 @@ button:hover{
 }
 
 .list-v li{
-  margin: 25px;
   text-align: left;
   list-style-type: square;
 }
@@ -126,8 +129,6 @@ button:hover{
   content: '\00a0\2022\00a0\00a0';
 }
   
-
-
 .projT{
   width: 100%;
   padding: 0 15px;
